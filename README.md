@@ -6,7 +6,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/MatthewMcCloskey01/MS-Azure-SOC)
  
 - <b>Vulnerability Scanning with Nessus</b>
-  - [Vulnerability Scanning and Vulnerability Remediation](https://github.com/MatthewMcCloskey01/MS-Azure-SOC)
+  - [Vulnerability Scanning and Vulnerability Remediation](https://github.com/MatthewMcCloskey01/Vulnerability-Scanning-with-Nessus/edit/main/README.md)
  
 - <b>Greenbone OpenVAS Vulnerability Management</b>
   - [Performing vulnerability scans and addressing identified vulnerabilities using OpenVas](https://github.com/MatthewMcCloskey01/MS-Azure-SOC)
